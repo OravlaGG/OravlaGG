@@ -8,7 +8,30 @@
 
 </div> 
 
-<h4>Hello everyone! I'm Álvaro Gómez, a student of <a href="https://iesplayamar.es" target="_blank">IES Playamar</a></h4>
+<div align="center">
+  Hello everyone! I'm Álvaro Gómez, a 2º year DAW(Web App Development) student of <a href="https://iesplayamar.es">I.E.S. Playamar</a>. I also spent some time learning in 42-Malaga before being in Playamar. I'm still in my 20's so I still have a long learning path, where I aspire to master several softwares so I get better at designing Webs.</div>
+
+---
+<h2>&#128211 Languages, Databases and Tools &#128736</h2>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+
+<h3>Im currently leaning...</h3>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+---
+
+<h2>Github Statistics</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OravlaGG&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact"hspace="10" >
 <!--
 **OravlaGG/OravlaGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
