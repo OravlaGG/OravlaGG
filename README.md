@@ -1,5 +1,14 @@
-## Hi there 👋
+<div align="center">
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Merryweather&size=40&pause=500&color=7600F7&center=true&vCenter=true&multiline=true&width=575&height=140&lines=Hello+and+Welcome;%2FOr+Welcome+Back+%E3%83%BE(%EF%BC%BE%E2%88%87%EF%BC%BE)"></h1>
+</div>
 
+<div align="center">
+
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Merryweather&size=40&duration=1&pause=500&color=7600F7&center=true&vCenter=true&repeat=false&width=500&height=80&lines=%C3%81LVARO+G%C3%93MEZ+%7C%7C+2%C2%BA+DAW"></h1>
+
+</div> 
+
+<h4>Hello everyone! I'm Álvaro Gómez, a student of <a href="https://iesplayamar.es" target="_blank">IES Playamar</a></h4>
 <!--
 **OravlaGG/OravlaGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
