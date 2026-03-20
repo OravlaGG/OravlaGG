@@ -31,6 +31,13 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
+---
+
+<h3>My stats</h3>
+<p align="center">
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=OravlaGG&show_icons=true&bg_color=000&border_color=8000ff&text_color=8000ff&icon_color=8000ff&locale=es" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OravlaGG&layout=compact&show_icons=true&count_private=true&bg_color=000&border_color=8000ff&text_color=8000ff&icon_color=8000ff&locale=es" />
+</p>
 
 ---
 
